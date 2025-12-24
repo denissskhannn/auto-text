@@ -1,0 +1,42 @@
+In communication about age and aging, elderly is a key expression. Clues from
+various genres suggest that it is also contested. Dictionaries, for example, disagree about its evaluative meaning. Thus, the Longman Dictionary of Contemporary English tells its readers that elderly “is used as a polite way of saying that
+someone is old,” whereas the Macmillan English Dictionary for Advanced Learners advises users that “many people now think that this word is offensive.” Trawling the Internet, one also finds its contested nature emerging in self-reported
+identity, as in the comment made by a 75-year-old, “I am not elderly. I am old
+and proud of it” (Hay 1998) – an assertion that clearly would not make sense if,
+as some dictionaries (e.g., the Concise Oxford) claim, elderly were simply a
+synonym of old. Finally, elderly has been picked up as “ageist” by institutional
+arbiters of politically correct language. The Publication Manual of the American
+Psychological Association, for example, states, “Elderly is not acceptable as a
+noun and is considered pejorative by some as an adjective” (American Psychological Association 2001:69).
+With this initial evidence in mind, and against the backdrop of current research into aging (reviewed in the next section), evidence from a set of large
+reference corpora was sought to investigate the following questions:
+• What is it about elderly that makes some users, individual as well as institutional, reject it as “ageist”?
+• What attributes and activities are older people commonly associated with,
+and what dominant roles and identities emerge as a result?
+The aim of this article is twofold. On the substantive level of sociolinguistic
+inquiry, it aims to contribute to the growing body of research on discourse and
+aging, which will be reviewed, albeit briefly, in the next section. This article’s
+contribution consists in drawing up a collocational profile of an expression that
+plays a key role in discursive representations of older people. On the reflective
+level of methodology, on the other hand, the article aims to demonstrate that
+large reference corpora are rich repositories of social information and thus offer
+considerable potential for research in sociolinguistics and discourse analysis. In
+making this case, I shall be drawing on existing, commercially available data
+and the software that comes with them. I shall focus on how these can be used by
+scholars who may have neither the resources to assemble large teams of researchers nor the time and computing know-how to develop and use new tools.
+DISCOURSE AND AGING
+Aging is a field of research spanning many disciplines, reflecting the fact that
+the process of aging has biological, psychological, and social implications. While
+it is true that sociolinguistics has been paying comparatively less attention to age
+than to other factors – enough so for Coupland (2001:185) to refer to age as
+“sociolinguistics’ under-developed social dimension” – there is now a sizable
+body of research dealing with communicative aspects of aging. The key themes
+involved include intergenerational communication (Williams & Nussbaum 2001,
+Williams & Harwood 2004, Barker, Giles & Harwood 2004), and the communicative construction of relationships (Mares & Fitzpatrick 2004), health communication (Thompson, Robinson & Beisecker 2004), as well as age communication
+in the media (Nussbaum, Pecchioni, Robinson & Thompson 2000:85–112, Robinson, Skill & Turner 2004) and in marketing (DeRenzo & Malley 1992, Balazs
+2004, Stern & Mastro 2004). An angle that is of particular interest here is ageism, defined as “a complex ideological formation – a structured, historically
+formed set of myths or discourses which endorse the subordinate or marginal
+positions and qualities of the old” (Coupland 2001:197). Butler 1969 is generally credited with coining the term ageism (Bytheway & Johnson 1990:27), and
+Nuessel 1984 with the first attempt at cataloguing its lexicon. Nuessel’s collection comprises not only overtly denigrating terms such as bat and codger but
+also seemingly neutral expressions such as generation gap (focusing, as it does,
+“on the polarization of young and old people in our youth-oriented society”;
